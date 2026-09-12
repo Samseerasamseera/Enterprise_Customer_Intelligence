@@ -1,0 +1,34 @@
+CUSTOMER SUPPORT POLICY
+
+Purpose:
+This document describes the recommended approach for handling customer support issues and identifying customers who may require additional attention.
+
+Support Ticket Guidelines:
+
+Customers with no or very few support tickets generally require standard support handling.
+
+Customers with multiple support tickets should be reviewed for repeated or unresolved problems.
+
+Customers with a high number of support tickets may require proactive follow-up.
+
+Recommended Support Actions:
+
+1. Review the customer's previous support interactions.
+2. Identify repeated complaints or unresolved issues.
+3. Determine whether the issue is related to product usability, service quality, billing, or technical problems.
+4. Escalate unresolved critical issues to the appropriate support team.
+5. Follow up with the customer after resolution.
+
+High-Priority Support Customers:
+
+Customers should receive higher support priority when they have:
+- Multiple unresolved tickets.
+- Repeated complaints.
+- High customer value.
+- High predicted churn risk.
+
+Support and Retention:
+
+Support activity can be an important signal when evaluating customer churn risk. However, a high number of support tickets does not automatically mean that a customer will churn.
+
+Customer support information should therefore be combined with other customer behavior and machine learning signals before making retention decisions.

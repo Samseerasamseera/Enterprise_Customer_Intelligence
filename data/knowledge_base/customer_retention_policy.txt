@@ -1,0 +1,50 @@
+CUSTOMER RETENTION POLICY
+
+Purpose:
+This document defines the standard customer retention actions for customers identified as having a high probability of churn.
+
+Customer Risk Levels:
+
+LOW RISK:
+Customers with churn probability below 45% are classified as low risk.
+
+Recommended Actions:
+- Continue normal customer engagement.
+- Provide regular product communication.
+- Monitor customer activity.
+- No immediate retention discount is required.
+
+MEDIUM RISK:
+Customers with churn probability between 45% and 70% are classified as medium risk.
+
+Recommended Actions:
+- Contact the customer proactively.
+- Review recent support interactions.
+- Offer personalized assistance.
+- Provide relevant product recommendations.
+- Consider a limited retention offer when appropriate.
+
+HIGH RISK:
+Customers with churn probability of 70% or higher are classified as high risk.
+
+Recommended Actions:
+- Prioritize the customer for immediate intervention.
+- Contact the customer through the preferred communication channel.
+- Review unresolved support issues.
+- Assign the customer to a retention specialist when required.
+- Consider a targeted retention incentive.
+- Monitor the customer's activity after intervention.
+
+Retention Priorities:
+
+Priority should be given to customers who have:
+- High churn probability.
+- High customer lifetime value.
+- Multiple recent support issues.
+- Significant purchase history.
+
+Business Rule:
+Retention actions should consider both churn risk and customer value. A high-risk customer with high lifetime value should receive higher priority than a low-value customer with similar churn risk.
+
+Important:
+Churn probability represents a model prediction and should not be treated as a guaranteed outcome.

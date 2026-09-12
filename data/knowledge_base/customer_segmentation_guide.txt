@@ -1,0 +1,52 @@
+CUSTOMER SEGMENTATION GUIDE
+
+Purpose:
+Customer segmentation is used to group customers according to their purchasing behavior and value.
+
+RFM Analysis:
+
+RFM stands for:
+
+Recency:
+How recently a customer interacted or purchased.
+
+Frequency:
+How frequently a customer makes purchases.
+
+Monetary:
+The monetary value associated with customer purchases.
+
+Business Interpretation:
+
+High-value customers generally have stronger purchasing activity and higher monetary value.
+
+Standard-value customers generally have lower purchasing frequency and monetary value compared with high-value customers.
+
+Customer Segments:
+
+HIGH VALUE CUSTOMERS:
+These customers demonstrate relatively high purchase frequency and monetary value.
+
+Recommended Actions:
+- Prioritize customer retention.
+- Provide personalized recommendations.
+- Monitor churn risk.
+- Consider loyalty programs.
+- Provide targeted offers where appropriate.
+
+STANDARD VALUE CUSTOMERS:
+These customers have comparatively lower purchase frequency and monetary value.
+
+Recommended Actions:
+- Encourage repeat purchases.
+- Provide product recommendations.
+- Monitor engagement.
+- Use targeted campaigns to increase customer value.
+
+Important RFM Note:
+
+RFM analysis should ideally use actual transaction dates to calculate recency. If transaction dates are unavailable, a proxy measure may be used, but the limitation should be documented.
+
+Segmentation Limitation:
+
+Customer segmentation describes groups of customers based on behavioral characteristics. A segment should not automatically be interpreted as a churn prediction. Churn prediction and customer segmentation serve different analytical purposes.
